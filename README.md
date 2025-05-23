@@ -4,7 +4,7 @@ err.425: Too Early, the space is still being processed... but hey, welcome!~
 <p align="center">
 My page has been opened
 <a href="https://github.com/VoydFox" target="_blank"><img src="https://count.getloli.com/get/@VoydFox?theme=rule34" alt="Visitor Counter"></a>
-times!
+times and the journey has only just begun.
 </p>
 
 ___
