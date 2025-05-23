@@ -30,4 +30,5 @@ ___
 
 [![GPU](https://img.shields.io/badge/Nvidia-RTX_4080-3B6A34?style=for-the-badge&logo=nvidia&logoColor=green)](https://www.techpowerup.com/gpu-specs/geforce-rtx-4080.c3888)
 [![CPU](https://img.shields.io/badge/Intel_i7-13th_gen_Intel_Core_i7--13700KF-37383A?style=for-the-badge&logo=intel&logoColor=blue)](https://www.techpowerup.com/cpu-specs/core-i7-13700kf.c2853)
+<br>
 ...more is to come~
