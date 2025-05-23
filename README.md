@@ -1,6 +1,7 @@
 ### 𝓕𝓲𝓵𝓮 : 𝓘𝓷𝓽𝓻𝓸
+<p align="center">
 err.425: Too Early, the space is still being processed... but hey, welcome!~
-
+</p>
 <p align="center">
 My page has now been opened
 <a href="https://github.com/VoydFox" target="_blank"><img src="https://count.getloli.com/get/@VoydFox?theme=rule34" alt="Visitor Counter"></a>
